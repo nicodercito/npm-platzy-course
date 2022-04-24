@@ -14,7 +14,15 @@
   "author": "Nicolas Quinonez",
   "license": "(MIT)",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nii-coder/npm-platzy-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nii-coder/npm-platzy-course/issues"
+  },
+  "homepage": "https://github.com/nii-coder/npm-platzy-course#readme"
 }
